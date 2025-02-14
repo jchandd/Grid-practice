@@ -42,3 +42,11 @@ GRID */
  flex-wrap: wrap; 
  /* To make our images rearrange if width decreases */
 }
+
+.child {
+  flex: 40%;
+   margin: 10px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+}
+
